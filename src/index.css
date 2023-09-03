@@ -6,7 +6,7 @@ body {
 
 input,
 select {
-  margin: 0 8px;
+  margin: 0 9px;
   padding: 4px 8px;
   font: inherit;
 }
